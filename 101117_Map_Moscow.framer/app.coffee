@@ -133,7 +133,7 @@ disk_0.opacity=0
 disk_1.opacity=0
 disk_2.opacity=0
 disk_3.opacity=0
-disk_4.opacity=0
+disk_4.opacity=1
 
 
 errorText_N = new TextLayer
