@@ -3918,7 +3918,7 @@
                 "centerAnchorX" : 0.7245989304812834,
                 "parentid" : "9oK2(v=@",
                 "rotation" : 0,
-                "top" : 77,
+                "top" : 117,
                 "right" : 48,
                 "styledText" : {
                   "blocks" : [
@@ -4047,7 +4047,7 @@
                 "heightFactor" : null,
                 "editable" : false,
                 "visible" : true,
-                "centerAnchorY" : 0.1410658307210031,
+                "centerAnchorY" : 0.2037617554858934,
                 "autoSize" : true,
                 "y" : 12
               },
